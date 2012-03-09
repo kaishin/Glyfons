@@ -3,7 +3,7 @@
 Designing glyph icons often requires us to make a compromise between pixel-precision and scalability. Pixel-perfect icons optimized for present day screens tend to come at the expense of visually balanced, future-proof vector shapes. Meanwhile, icon fonts and vector glyphs end up looking  like a mishmash of pixels in smaller sizes due to subpixel rendering.
 
 # The solution
-Glyfons is an icon set that attempts to address this problem by providing both retina-ready vector icons (SVG) as well as their pixel-optimized counterparts (PNG). It comes also with an Adobe Illustrator icon creation kit to make it easier for designers to create their own icons or tailor the existing ones to their needs.
+Glyfons is an icon set that attempts to address this problem by providing both retina-ready vector icons (PDF) as well as their pixel-optimized counterparts (PNG). It comes also with an Adobe Illustrator icon creation kit to make it easier for designers to create their own icons or tailor the existing ones to their needs.
 
 # The icons
 Currently the set comes with the following default icons:
@@ -43,4 +43,4 @@ Please note that you need to restart Illustrator after installing the script for
 - Fill the smaller artboards by selecting the glyph (make sure it's a single compound path) then running the *Generate Smaller Sizes* in *File* > *Scripts* > *Glyfon Actions*. 
 - Turn on *Pixel Preview*.
 - Pixel-adjust the generated icons to your heart's content.
-- Once you are satsified with the outcome, run the *Export Icon Files* script. It will create a new folder with the name of the icon, export the main glyph as SVG and the smaller versions as PNG, then saves your current vector file.
+- Once you are satsified with the outcome, run the *Export Icon Files* script. It will create a new folder with the name of the icon, export the main glyph as PDF and the smaller versions as PNG, then saves your current vector file.
