@@ -1,3 +1,5 @@
+⚠️ This project is **deprecated**.
+
 # The problem
 
 Designing glyph icons often requires us to make a compromise between pixel-precision and scalability. Pixel-perfect icons optimized for present day screens tend to come at the expense of visually balanced, future-proof vector shapes. Meanwhile, icon fonts and vector glyphs end up looking  like a mishmash of pixels in smaller sizes due to subpixel rendering.
